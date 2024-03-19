@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+include/*
+lib/*
+.env
+bin/*
+__pycache__/*
+admin/__pycache__/*
+admin/responses/__pycache__/*
+main/__pycache__/*
+ssl.cert
+ssl.key
+pyvenv.cfg
+
